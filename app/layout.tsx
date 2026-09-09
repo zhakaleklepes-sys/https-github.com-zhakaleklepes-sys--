@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Classroom → Textbook → Real Life',
-  description: 'From Classroom English to Real-Life Communication — an interactive platform for teenage English learners.',
+  title: 'English Life Quest — Grade 9 English Board Game',
+  description: 'A modern English board game that turns textbook language into real-life communication.',
 };
 
 export default function RootLayout({
