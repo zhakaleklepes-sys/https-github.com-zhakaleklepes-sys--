@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'English Life Quest — Grade 9 English Board Game',
-  description: 'A modern English board game that turns textbook language into real-life communication.',
+  title: 'Real-Life English — Listen. Remember. Type. Use.',
+  description: 'A listening, spelling and active-recall trainer with 240 practical English items for Grade 9–10 students.',
 };
 
 export default function RootLayout({
